@@ -1,0 +1,25 @@
+# humanstxt.org
+# This file is used to provide information about the people who have contributed to this project.
+
+# Project: NodeWave
+# URL: https://nodewave-ea-github.io
+
+# TEAM
+# The people who have contributed to this project.
+# Format: Name -- Role -- GitHub
+
+		<Gideon Maina> -- <Lead Developer> -- <@github.com/gideonmaina>
+
+# THANKS
+# Acknowledgments to those who have helped in various ways.
+# Format: Name -- Contribution
+
+		<Gideon Maina> -- <Testing and Feedback> -- <@github.com/alexjohnson>
+
+# TECHNOLOGY COLOPHON
+# The technologies used in this project.
+# Format: Technology -- Version
+
+		<Node.js> -- <24.2.0>
+		<Vue.js> -- <3.0.0>
+		<Vuetify> -- <3.0.0>

@@ -1,0 +1,7 @@
+# HTTPS Redirect for Netlify
+# Force HTTPS for all requests
+http://nodewave.net/* https://www.nodewave.net/:splat 301!
+http://www.nodewave.net/* https://www.nodewave.net/:splat 301!
+
+# SPA Fallback for client-side routing
+/*    /index.html   200
