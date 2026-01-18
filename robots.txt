@@ -1,0 +1,13 @@
+# NodeWave Robots.txt
+# SEO-friendly crawl rules
+
+User-agent: *
+
+# Optional crawl-delay for non-Google bots (seconds)
+User-agent: Bingbot
+Crawl-delay: 5
+
+User-agent: Slurp
+Crawl-delay: 5
+
+Sitemap: https://nodewave.net/sitemap.xml
